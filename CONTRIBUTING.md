@@ -1,7 +1,7 @@
 <!--
-This file was generated from skeleton-ci/skeleton-python@0.0.2rc-234-gca605f0.
+This file was generated from skeleton-ci/skeleton-python@0.0.2rc-239-ga084376.
 Instead of changing this particular file, you might want to alter the template:
-https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-234-gca605f0/fragments/contributing.md
+https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-239-ga084376/fragments/contributing.md
 -->
 # Contributing to [brandy](https://github.com/bswck/brandy) 🎉
 Contributions are very welcome. 🚀
@@ -46,9 +46,9 @@ Ready to contribute? Here's a quick guide on how to set up brandy and make a cha
 
 
 <!--
-This section was generated from skeleton-ci/skeleton-python@0.0.2rc-234-gca605f0.
+This section was generated from skeleton-ci/skeleton-python@0.0.2rc-239-ga084376.
 Instead of changing this particular file, you might want to alter the template:
-https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-234-gca605f0/fragments/guide.md
+https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-239-ga084376/fragments/guide.md
 -->
 > [!Note]
 > If you use Windows, it is highly recommended to complete the installation in the way presented below through [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
