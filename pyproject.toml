@@ -27,6 +27,8 @@ Coverage = "https://coverage-badge.samuelcolvin.workers.dev/redirect/bswck/brand
 
 [tool.poetry.dependencies]
 python = ">=3.10"
+slothy = ">=0.1.0b0"
+proxyvars = ">=0.10.0"
 
 [tool.poetry.group.dev.dependencies]
 
@@ -49,6 +51,8 @@ keyring = ">=25.0.0"
 
 [tool.pytest.ini_options]
 addopts = "--doctest-modules"
+
+
 
 
 [tool.poetry.group.docs]

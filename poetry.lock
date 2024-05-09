@@ -1187,6 +1187,17 @@ pyyaml = ">=5.1"
 virtualenv = ">=20.10.0"
 
 [[package]]
+name = "proxyvars"
+version = "0.10.0"
+description = "Callback-based object proxies in Python."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "proxyvars-0.10.0-py3-none-any.whl", hash = "sha256:1224945422901b6b271bdae1b50a5d58e16baa1eb90017c9b79b5ba2aff17282"},
+    {file = "proxyvars-0.10.0.tar.gz", hash = "sha256:19a0edf3513e4f0d43262346063ff75b301ff828f659ffba5021eaa1903f3f96"},
+]
+
+[[package]]
 name = "pycparser"
 version = "2.22"
 description = "C parser in Python"
@@ -1595,6 +1606,17 @@ files = [
 ]
 
 [[package]]
+name = "slothy"
+version = "0.1.0b0"
+description = "Super-easy lazy importing in Python."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "slothy-0.1.0b0-py3-none-any.whl", hash = "sha256:bacab6c37873a1e67a3d3fd2717c51ad6e42d65e776c4736dbd15f0e6fa6dc6a"},
+    {file = "slothy-0.1.0b0.tar.gz", hash = "sha256:a2f045633e6d1495597953c60d2e47cdfffcf07cc3a14f8b7dc55518a3b3d84f"},
+]
+
+[[package]]
 name = "smokeshow"
 version = "0.4.0"
 description = "Deploy ephemeral websites."
@@ -1789,4 +1811,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10"
-content-hash = "0191cac52fef45e776310c04a7401d7ce4932ad675c3a36e943b71b9451d7ce9"
+content-hash = "98cfccd218eb9327da7b3ee4efe593db4d80d496ad60040f512addd9e24bb70f"
