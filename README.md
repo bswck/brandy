@@ -9,7 +9,7 @@
 >
 > Hit the `👁 Watch` button to know when this project is ready to be tried out!
 
-Framework for builting bots empowering your web presence.
+Framework for building bots empowering your web presence.
 
 # Installation
 To use this globally as a CLI tool only, simply install it with [pipx](https://github.com/pypa/pipx):

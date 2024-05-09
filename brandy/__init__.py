@@ -3,5 +3,5 @@
 """
 `brandy`.
 
-Framework for builting bots empowering your web presence.
+Framework for building bots empowering your web presence.
 """

@@ -9,7 +9,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry]
 name = "brandy"
 version = "0.0.0"
-description = "Framework for builting bots empowering your web presence."
+description = "Framework for building bots empowering your web presence."
 authors = ["bswck <bartoszpiotrslawecki@gmail.com>"]
 license = "MIT"
 readme = "README.md"

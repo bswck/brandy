@@ -3,7 +3,7 @@ _src_path: gh:skeleton-ci/skeleton-python
 author: bswck
 cli: true
 copyright: Bartosz Sławecki
-description: Framework for builting bots empowering your web presence.
+description: Framework for building bots empowering your web presence.
 docs: true
 email: bartoszpiotrslawecki@gmail.com
 github: bswck
@@ -11,7 +11,7 @@ license: MIT
 package: brandy
 precommit: true
 pypi: true
-pypi_description: Framework for builting bots empowering your web presence.
+pypi_description: Framework for building bots empowering your web presence.
 pypi_project: brandy
 pypy: false
 python: '3.10'

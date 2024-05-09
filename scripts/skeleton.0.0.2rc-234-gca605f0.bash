@@ -171,7 +171,7 @@ make_context() {
 	)
 	export GH_REPO_ARGS
 	GH_REPO_ARGS=$(cat <<- 'EOF'
-		"bswck/brandy" --public --source=./ --remote=upstream --description="Framework for builting bots empowering your web presence."
+		"bswck/brandy" --public --source=./ --remote=upstream --description="Framework for building bots empowering your web presence."
 	EOF
 	)
 	export GH_ENSURE_ENV
