@@ -26,7 +26,7 @@ Distribution = "https://pypi.org/project/brandy/"
 Coverage = "https://coverage-badge.samuelcolvin.workers.dev/redirect/bswck/brandy"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"  # Hands tied, hikari forces us to use <3.13
+python = ">=3.10,<3.13"  # Hands tied, hikari forces us to declare <3.13
 slothy = ">=0.1.0b0"
 proxyvars = ">=0.10.0"
 hikari = ">=2.0.0.dev125"
@@ -36,6 +36,7 @@ pydantic = ">=2.7.1"
 google-api-python-client = ">=2.128.0"
 feedparser = ">=6.0.11"
 typer = ">=0.12.3"
+configzen = ">=1.0.0.a0"
 
 [tool.poetry.group.dev.dependencies]
 
