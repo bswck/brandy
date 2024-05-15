@@ -1,6 +1,6 @@
-# This file was generated from skeleton-ci/skeleton-python@0.0.2rc-239-ga084376.
+# This file was generated from skeleton-ci/skeleton-python@0.0.2rc-245-g8c04714.
 # Instead of changing this particular file, you might want to alter the template:
-# https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-239-ga084376/project/pyproject.toml.jinja
+# https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-245-g8c04714/project/pyproject.toml.jinja
 
 [build-system]
 requires = ["poetry-core"]
@@ -20,7 +20,7 @@ homepage = "https://github.com/bswck/brandy"
 brandy = "brandy.__main__:main"
 
 [tool.poetry.urls]
-Documentation = "https://brandy.readthedocs.io/en/latest/"
+Documentation = "https://bswck.github.io/brandy"
 Issues = "https://github.com/bswck/brandy/issues"
 Distribution = "https://pypi.org/project/brandy/"
 Coverage = "https://coverage-badge.samuelcolvin.workers.dev/redirect/bswck/brandy"
@@ -40,9 +40,9 @@ typer = ">=0.12.3"
 [tool.poetry.group.dev.dependencies]
 
 [tool.poetry.group.dev-skeleton.dependencies]
-# This dependency group was generated from skeleton-ci/skeleton-python@0.0.2rc-239-ga084376.
+# This dependency group was generated from skeleton-ci/skeleton-python@0.0.2rc-245-g8c04714.
 # Instead of changing this particular file, you might want to alter the template:
-# https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-239-ga084376/project/pyproject.toml.jinja
+# https://github.com/skeleton-ci/skeleton-python/tree/0.0.2rc-245-g8c04714/project/pyproject.toml.jinja
 mypy = ">=1.9.0"
 ruff = ">=0.3.4"
 towncrier = ">=23.11.0"
@@ -70,7 +70,7 @@ mkdocstrings = { version = ">=0.19.0", extras = ["python"] }
 [tool.poe.tasks]
 test = "pytest -v"
 lint = "ruff check ."
-skeleton = "scripts/skeleton.0.0.2rc-239-ga084376.bash"
+skeleton = "scripts/skeleton.0.0.2rc-245-g8c04714.bash"
 check = [
     { ref="test" },
     { ref="lint" },

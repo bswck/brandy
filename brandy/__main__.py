@@ -1,10 +1,6 @@
 # SPDX-License-Identifier: MIT
 # (C) 2024-present Bartosz Sławecki (bswck)
-"""
-`brandy`.
-
-Entrypoint script.
-"""
+"""Entrypoint script triggered through `python -m brandy`."""
 
 from __future__ import annotations
 
